@@ -7,4 +7,18 @@ print("Hello World")
 print("New Line Character\n") #\n adds an empty line after printing.
 
 print("How many \n lines will\n this print on\n the screen?\n")
+print("\t This is a tab.")
+
+# Escaping the Escape Character \
+print("\\")
+
+# Print Single Quotes '
+print("\'")
+
+# Print Double Quotes "
+print("\" ")
+
+
+
+
 
