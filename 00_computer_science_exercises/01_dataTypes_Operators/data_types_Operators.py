@@ -18,7 +18,7 @@
 # camelCaseVariablesNames
 # snake_case_variables_names
 
-# DECLARING VARIABLES ABD ASSIGNING VALUES
+# DECLARING VARIABLES AND ASSIGNING VALUES
 
 high_score = 884654 # int data type
 highScore = 294514 # int data types
@@ -30,7 +30,7 @@ hasAxe = True # boolean data type
 isPurple = False # boolean data type
 
 playerName = "Jackques Williams" # string data type
-
+enemyType = "wind" # string data type
 
 
 
