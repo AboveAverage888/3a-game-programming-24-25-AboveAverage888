@@ -17,3 +17,20 @@
 # VARIABLES CAN'T START WITH A NUMBER
 # camelCaseVariablesNames
 # snake_case_variables_names
+
+# DECLARING VARIABLES ABD ASSIGNING VALUES
+
+high_score = 884654 # int data type
+highScore = 294514 # int data types
+
+carSpeed = 18.64 # float data type, miles per hour
+car_speed = -9.5664848 # float data type, miles per hour
+
+hasAxe = True # boolean data type
+isPurple = False # boolean data type
+
+playerName = "Jackques Williams" # string data type
+
+
+
+
