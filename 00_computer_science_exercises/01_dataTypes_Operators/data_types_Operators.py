@@ -50,3 +50,7 @@ print(highScore + 9000)
 print(45 * 2)
 print(highScore)
 
+
+# PRINTING VARIABLES INSIDE OF STRINGS
+print(f"Hello {playerName}. Your high score is {highScore}. \n")
+
