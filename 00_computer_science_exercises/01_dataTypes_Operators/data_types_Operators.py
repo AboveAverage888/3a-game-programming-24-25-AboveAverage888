@@ -44,3 +44,9 @@ print(playerName)
 print(isPurple)
 print(highScore)
 print(carSpeed)
+
+# print variables and expression to console / screen
+print(highScore + 9000)
+print(45 * 2)
+print(highScore)
+
