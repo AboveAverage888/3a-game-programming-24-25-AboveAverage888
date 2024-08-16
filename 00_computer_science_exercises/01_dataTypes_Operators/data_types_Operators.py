@@ -32,5 +32,15 @@ isPurple = False # boolean data type
 playerName = "Jackques Williams" # string data type
 enemyType = "wind" # string data type
 
+# Assign NEW VALUES
+playerName = "Gambit"
+carSpeed = "9.50"
 
+# DATA TYPES CAN CHANGE, BE CAREFUL
+hasAxe = 4.5
 
+# print Variables to Console / Screen
+print(playerName)
+print(isPurple)
+print(highScore)
+print(carSpeed)
