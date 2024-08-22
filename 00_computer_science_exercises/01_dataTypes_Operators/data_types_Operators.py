@@ -153,3 +153,7 @@ a = 9
 print(a == 9)
 print(not (not (a == 9)))
 
+# COMBINING LOGICAL OPERATORS
+# print(a == 9 and hasKey == True or isCloud == True)
+# TRUE and 
+
