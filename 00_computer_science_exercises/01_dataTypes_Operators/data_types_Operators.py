@@ -110,7 +110,27 @@ myNum += 1 # New hotness
 myNum *= 1
 myNum /= 1
 
+# COMPARISON OPERATORS
 
 
+# IS-EQUAL-TO == Are the two values equapl to each other?
+# Returns True or False based on evaluation
+x = 12.0
+# print(x ==5)
+
+# NOT-EQUAL-T!= Are the two values not equal?
+# Returns True or False based on evaluation
+print(x !=12)
+
+# GREATER THAN/ GREATER-THAN-OR-EQUAL- TO
+print(5 > 3) # Greater Than
+print( 12 >= 2) # Greater than or equal to
+
+# LESS THAN / LESS-THAN-OR-EQUAL-TO
+print(5 < 3) # LESS than
+print( 12 <=  2) # Less than or equal to
 
 
+# LOGICAL OPERATORS
+
+# IDENTITY OPERATORS
