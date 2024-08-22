@@ -39,6 +39,17 @@ carSpeed = "9.50"
 # DATA TYPES CAN CHANGE, BE CAREFUL
 hasAxe = 4.5
 
+# Print Data Types
+newInt = 3
+newFloat = 5.0
+newString = "Peanut Butter"
+newBool = False
+
+print(type(newInt))
+print(type(newString))
+print(type(newFloat))
+print(type(newBool))
+
 # print Variables to Console / Screen
 print(playerName)
 print(isPurple)
@@ -98,6 +109,7 @@ myNum = myNum + 2 #Old-School Method
 myNum += 1 # New hotness 
 myNum *= 1
 myNum /= 1
+
 
 
 
