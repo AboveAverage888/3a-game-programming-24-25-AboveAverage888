@@ -170,3 +170,8 @@ print(i is not g)
 fruits = ["apple, banana, tomato"]
 print("banana" in fruits)
 print("potato" in fruits)
+
+
+
+
+
