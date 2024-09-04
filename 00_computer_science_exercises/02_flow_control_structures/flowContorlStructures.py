@@ -1,7 +1,7 @@
 # Flow Control Structures, Jackques Williams, v0.0
 # Making Computer Programs Make Decisions
 
-temperature = 72
+temperature = 88
 color = "Black"
 height = 8
 likesPineappleOnPizza = True 
@@ -49,12 +49,19 @@ else: # "dang it dude, something wrong!"
 # If the temperature is at least 50 degress but less than 100, print that recess is allowed 
 # If the temperature is less than 50 degress but greater than 0, print that recess is in the gym    
 # If no temperature is detected, print an error message
-
+    
 if temperature >= 100:
     print("It is too hot outside\n")
 elif temperature >= 50:
     print("Recess is allowed\n")
-elif temperature <= 50:
+elif temperature <= 0:
     print("Recess is allowed in the gym\n")
 else:
     print("Error temperature is not found\n")
+
+
+
+
+
+
+
